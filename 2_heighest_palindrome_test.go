@@ -7,10 +7,6 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func loopRecurssive() {
-
-}
-
 func HeighestPalindrome(input string, k int) string {
 	intArr := convertInputToArrInt(input)
 	l := 0

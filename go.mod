@@ -2,7 +2,10 @@ module github.com/fajarachmadyusup13/hitopia
 
 go 1.20
 
-require github.com/stretchr/testify v1.8.4
+require (
+	github.com/stretchr/testify v1.8.4
+	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa
+)
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect

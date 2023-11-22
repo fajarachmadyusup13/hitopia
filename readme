@@ -1,0 +1,7 @@
+Time Complexity untuk function balanced brackets ini, ialah O(n)
+
+dimana time complexity ini terjadi ketika function menelusuri seluruh string input, 
+yang kemudian dilakukan pengecekan untuk mengetahui apakah kurung tersebut memiliki pasangan atau tidak
+
+dan untuk solusi dari masalah balanced brackets ini, memanfaatkan struktur data stack, 
+yang menggunakan konsep LIFO (Last-In First-Out)
